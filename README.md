@@ -100,3 +100,8 @@ Example:
 ## Author
 
 Student project developed to practice Java programming, JDBC, MySQL database operations, and GUI development.
+
+
+## Application Screenshot
+
+![Student Management GUI](Screenshots/StudentManagementGUI.png)
