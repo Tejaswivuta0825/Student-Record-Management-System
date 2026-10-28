@@ -68,3 +68,11 @@ Ensure MySQL is running and your local database credentials are configured befor
 ## Author
 
 Student project developed for learning Java, JDBC, and MySQL database operations.
+
+## Screenshots
+
+### Student Records and Main Menu
+
+
+![Student Records and Main Menu](Screenshots/students-record.png)
+
